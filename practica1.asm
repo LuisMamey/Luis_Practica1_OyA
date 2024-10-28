@@ -1,4 +1,4 @@
-.text
+.text    #Luis Alberto Del Valle Rios y Diego Ramon Gonzalez Bravo
 main:
     auipc s1,0xfc10  		#Direccion de datos para primera torre   
     addi  s2, s1, 0x4       	#Direccion de datos para segunda torre
